@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me:
-🔭 Building ML models & full-stack (MERN) applications. 
+🔭 Building ML models & full-stack (MERN) applications.  
 👯 Open to collaborate on AI/ML & real-world projects.  
 💼 Actively seeking ML / MERN Developer opportunities.  
 🌱 Learning Deep Learning, Backend & System Design.  
